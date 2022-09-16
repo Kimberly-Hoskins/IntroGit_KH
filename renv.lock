@@ -408,7 +408,6 @@
         "glue",
         "gtable",
         "isoband",
-        "mgcv",
         "rlang",
         "scales",
         "tibble",
@@ -528,14 +527,6 @@
         "rlang"
       ]
     },
-    "lattice": {
-      "Package": "lattice",
-      "Version": "0.20-45",
-      "Source": "Repository",
-      "Repository": "CRAN",
-      "Hash": "b64cdbb2b340437c4ee047a1f4c4377b",
-      "Requirements": []
-    },
     "lazyeval": {
       "Package": "lazyeval",
       "Version": "0.2.2",
@@ -579,10 +570,10 @@
       "Version": "1.8-40",
       "Source": "Repository",
       "Repository": "CRAN",
-      "Hash": "c6b2fdb18cf68ab613bd564363e1ba0d",
+      "Hash": "e2817ccf4a065c5d9d7f2cfbe7c1d78c",
       "Requirements": [
-        "Matrix",
-        "nlme"
+        "cachem",
+        "rlang"
       ]
     },
     "mime": {
